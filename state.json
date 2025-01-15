@@ -1,0 +1,26 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:3000",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en-GB"
+        },
+        {
+          "name": "email",
+          "value": ""
+        },
+        {
+          "name": "rememberMe",
+          "value": "false"
+        },
+        {
+          "name": "state",
+          "value": "{\"sideMenu\":{\"showProfile\":false,\"showMessages\":false,\"showAppointments\":false,\"burgerAnimation\":false},\"sideMenuClear\":{\"addClearCSS\":false},\"resultsHistory\":{\"history\":null,\"count\":0},\"security\":{\"validToken\":false,\"user\":{},\"errors\":null},\"signup\":{\"newUserEmail\":\"\"},\"dashboard\":{\"showMessage\":false},\"selectRH\":{\"scan_id\":null,\"batch_id\":null},\"rhDetails\":null,\"scan\":{\"scan\":[]},\"species\":{\"scan\":{}},\"products\":null,\"images\":{\"images\":[]},\"worklist\":{\"worklist\":null,\"count\":0},\"editWorklist\":null,\"deleteWorklist\":null,\"device\":{\"myDeviceId\":null,\"myDeviceData\":null,\"myPractice\":null},\"batchDetails\":{\"batchReport\":null},\"userAlert\":{\"showAlert\":true,\"message\":\"Invalid username or password\",\"alertType\":\"Warning\"},\"resultsPreviousPage\":{\"previousPage\":1},\"pendingScansTablePage\":{\"page\":1},\"resultsHistoryTablePage\":{\"page\":1}}"
+        }
+      ]
+    }
+  ]
+}

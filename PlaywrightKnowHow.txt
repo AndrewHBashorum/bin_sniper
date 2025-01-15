@@ -1,0 +1,25 @@
+
+##########################################################
+Run the tests in the test folder from config ie /tests/:
+#
+npx playwright test
+#
+##########################################################
+Run same tests with ui 
+#
+npx playwright test --ui
+#
+##########################################################
+show the report from tests
+#
+npx playwright show-report
+#
+##########################################################
+Use Chrome with external/existing chrome
+#
+example show in example.spec.js
+#
+Chrome should also be started with 
+google-chrome --remote-debugging-port=9222
+##########################################################
+
